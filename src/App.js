@@ -9,7 +9,7 @@ import HelloWorld from './state-drills/HelloWorld';
 import Bomb from './state-drills/Bomb';
 import RouletteGun from './state-drills/RouletteGun';
 import Tabs from './state/Tabs';
-import Accordion from './state-drills/accordion';
+import Accordion from './state-drills/Accordion';
 
 const firstTooltip = (
   <Tooltip color='hotpink' message='tooltip message'>
